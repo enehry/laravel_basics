@@ -4,6 +4,10 @@
 <p>Learning laravel basics creating cms like website</p>
 
 <p>Sample Screenshot</p>
-<img height="400px" src="https://github.com/enehry/laravel_basics/blob/main/basic.png">
+<img width="400px" src="https://github.com/enehry/laravel_basics/blob/main/basic.png">
+<img width="400px" src="https://github.com/enehry/laravel_basics/blob/main/basic1.png">
+<img width="400px" src="https://github.com/enehry/laravel_basics/blob/main/basic2.png">
+<img width="400px" src="https://github.com/enehry/laravel_basics/blob/main/basic3.png">
+<img width="400px" src="https://github.com/enehry/laravel_basics/blob/main/basic4.png">
 
 
