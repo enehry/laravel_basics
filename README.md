@@ -4,5 +4,6 @@
 <p>Learning laravel basics creating cms like website</p>
 
 <p>Sample Screenshot</p>
-![alt text](https://github.com/enehry/laravel_basics/blob/main/basic.png)
+<img src="https://github.com/enehry/laravel_basics/blob/main/basic.png">
+
 
